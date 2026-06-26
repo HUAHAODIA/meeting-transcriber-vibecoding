@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+build_temp/
+dist/
+*.spec
+!build.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large binaries (distributed via GitHub Releases)
+XfyunTranscriber.exe
+转写工具+测试MP3.zip
+
+# FFmpeg dev dependencies (too large for git)
+assets/ffmpeg.exe
+assets/ffprobe.exe
+
+# Application data
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
