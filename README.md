@@ -2,7 +2,7 @@
 
 > 基于讯飞非实时语音转写大模型 (ifasr_llm) 的桌面端语音转写工具，支持说话人分离、音频裁剪、WAV 转换。
 
-## [Download 下载](https://github.com/HUAHAODIA/会议录音转录-vibecoding/releases/latest/download/XfyunTranscriber.exe)
+## [Download 下载](https://github.com/HUAHAODIA/meeting-transcriber-vibecoding/releases/latest/download/XfyunTranscriber.exe)
 
 点击上方链接直接下载 exe，无需进入文件夹。  
 Click the link above to download the exe directly — no need to browse folders.
